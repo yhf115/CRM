@@ -1,0 +1,8 @@
+package cn.e3mall.fast;
+
+public class FastDfsTest {
+	
+	public void testUpload() throws Exception(){
+		
+	}
+}

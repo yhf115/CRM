@@ -1,0 +1,12 @@
+package cn.e3mall.common.pojo;
+
+import java.io.Serializable;
+import java.lang.Thread.State;
+
+public class EasyUITreeNode implements Serializable {
+	private int id;
+	
+	private String text;
+	
+	private String state;
+}

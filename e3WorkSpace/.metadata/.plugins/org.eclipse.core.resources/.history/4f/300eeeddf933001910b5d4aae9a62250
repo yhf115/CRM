@@ -1,0 +1,10 @@
+package cn.e3mall.service.impl;
+
+import org.springframework.stereotype.Service;
+
+import cn.e3mall.service.ItemCatService;
+
+@Service
+public class ItemCatServiceImpl implements ItemCatService{
+
+}

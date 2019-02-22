@@ -1,0 +1,18 @@
+package cn.e3mall.service.impl;
+
+import java.util.List;
+
+import org.springframework.stereotype.Service;
+
+import cn.e3mall.common.pojo.EasyUITreeNode;
+import cn.e3mall.service.ItemCatService;
+
+@Service
+public class ItemCatServiceImpl implements ItemCatService{
+
+	@Override
+	public List<EasyUITreeNode> getItemCatlist(long parentId) {
+		return null;
+	}
+	
+}
